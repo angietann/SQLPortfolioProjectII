@@ -2,6 +2,7 @@
 # NashvilleHousingData
 
 Using SQL to practice data cleaning on dataset obtained from Kaggle : https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data
+
 Dataset consists of duplicates, inconsistencies in records and more. 
 
 1) Altered the dates using CONVERT()
